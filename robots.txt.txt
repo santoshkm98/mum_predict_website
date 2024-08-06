@@ -1,0 +1,11 @@
+
+
+Sitemap: https://www.mumpredict.org/sitemap_index.xml
+
+
+User-agent: * 
+
+Disallow: /wp-admin/
+
+
+Allow: /wp-admin/admin-ajax.php

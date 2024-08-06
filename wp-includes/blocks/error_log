@@ -1,0 +1,52 @@
+[01-Jul-2024 08:24:00 America/Boise] PHP Fatal error:  Uncaught Error: Undefined constant "ABSPATH" in /home4/techvito/public_html/planitall/wp-includes/blocks/index.php:8
+Stack trace:
+#0 {main}
+  thrown in /home4/techvito/public_html/planitall/wp-includes/blocks/index.php on line 8
+[01-Jul-2024 15:55:13 America/Boise] PHP Fatal error:  Uncaught Error: Undefined constant "ABSPATH" in /home4/techvito/public_html/planitall/wp-includes/blocks/index.php:8
+Stack trace:
+#0 {main}
+  thrown in /home4/techvito/public_html/planitall/wp-includes/blocks/index.php on line 8
+[03-Jul-2024 04:45:00 America/Boise] PHP Fatal error:  Uncaught Error: Undefined constant "ABSPATH" in /home4/techvito/public_html/planitall/wp-includes/blocks/index.php:8
+Stack trace:
+#0 {main}
+  thrown in /home4/techvito/public_html/planitall/wp-includes/blocks/index.php on line 8
+[12-Jul-2024 16:31:20 America/Boise] PHP Fatal error:  Uncaught Error: Undefined constant "ABSPATH" in /home4/techvito/public_html/planitall/wp-includes/blocks/index.php:8
+Stack trace:
+#0 {main}
+  thrown in /home4/techvito/public_html/planitall/wp-includes/blocks/index.php on line 8
+[13-Jul-2024 09:20:09 America/Boise] PHP Fatal error:  Uncaught Error: Undefined constant "ABSPATH" in /home4/techvito/public_html/planitall/wp-includes/blocks/index.php:8
+Stack trace:
+#0 {main}
+  thrown in /home4/techvito/public_html/planitall/wp-includes/blocks/index.php on line 8
+[15-Jul-2024 03:38:03 America/Boise] PHP Fatal error:  Uncaught Error: Undefined constant "ABSPATH" in /home4/techvito/public_html/planitall/wp-includes/blocks/index.php:8
+Stack trace:
+#0 {main}
+  thrown in /home4/techvito/public_html/planitall/wp-includes/blocks/index.php on line 8
+[17-Jul-2024 05:24:16 America/Boise] PHP Fatal error:  Uncaught Error: Undefined constant "ABSPATH" in /home4/techvito/public_html/planitall/wp-includes/blocks/index.php:8
+Stack trace:
+#0 {main}
+  thrown in /home4/techvito/public_html/planitall/wp-includes/blocks/index.php on line 8
+[18-Jul-2024 07:20:44 America/Boise] PHP Fatal error:  Uncaught Error: Undefined constant "ABSPATH" in /home4/techvito/public_html/planitall/wp-includes/blocks/index.php:8
+Stack trace:
+#0 {main}
+  thrown in /home4/techvito/public_html/planitall/wp-includes/blocks/index.php on line 8
+[25-Jul-2024 10:09:52 America/Boise] PHP Fatal error:  Uncaught Error: Undefined constant "ABSPATH" in /home4/techvito/public_html/planitall/wp-includes/blocks/index.php:8
+Stack trace:
+#0 {main}
+  thrown in /home4/techvito/public_html/planitall/wp-includes/blocks/index.php on line 8
+[28-Jul-2024 06:02:59 America/Boise] PHP Fatal error:  Uncaught Error: Undefined constant "ABSPATH" in /home4/techvito/public_html/planitall/wp-includes/blocks/index.php:8
+Stack trace:
+#0 {main}
+  thrown in /home4/techvito/public_html/planitall/wp-includes/blocks/index.php on line 8
+[30-Jul-2024 22:50:33 America/Boise] PHP Fatal error:  Uncaught Error: Undefined constant "ABSPATH" in /home4/techvito/public_html/planitall/wp-includes/blocks/index.php:8
+Stack trace:
+#0 {main}
+  thrown in /home4/techvito/public_html/planitall/wp-includes/blocks/index.php on line 8
+[03-Aug-2024 10:42:10 America/Boise] PHP Fatal error:  Uncaught Error: Undefined constant "ABSPATH" in /home4/techvito/public_html/planitall/wp-includes/blocks/index.php:8
+Stack trace:
+#0 {main}
+  thrown in /home4/techvito/public_html/planitall/wp-includes/blocks/index.php on line 8
+[04-Aug-2024 19:06:09 America/Boise] PHP Fatal error:  Uncaught Error: Undefined constant "ABSPATH" in /home4/techvito/public_html/planitall/wp-includes/blocks/index.php:8
+Stack trace:
+#0 {main}
+  thrown in /home4/techvito/public_html/planitall/wp-includes/blocks/index.php on line 8
